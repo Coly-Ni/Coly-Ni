@@ -1,7 +1,6 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[shadow_red]: https://github-readme-stats.vercel.app/api?username=Coly-Ni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
-![shadow_red][shadow_red]
+
 
 <div> 
   <a href= "https://www.instagram.com/niky.nii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
