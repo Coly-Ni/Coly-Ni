@@ -3,15 +3,23 @@
 
 <h1 align="center">Hello World! 👋 I'm Nicoly Moraes Fonseca</h1>
 
+<h5 align="center">Universitária cursando Bacharelado em Sistemas de Informação na Universidade Estadual de Mato Grosso do Sul (UEMS) e Especialização em Aprendizado de Máquina pela Coursera.
+
+Em projetos acadêmicos, estou desenvolvendo um ambiente virtual interativo para o ensino de superfícies de revolução e trabalhando no meu TCC, que consiste na criação de um dispositivo para monitoramento de saúde e geolocalização de pets, priorizando acessibilidade e inovação. Além disso, colaborei com a inclusão digital ministrando aulas práticas em um curso de informática básica e produzi material didático para o ensino de programação, resolvendo exercícios do livro de Harry Farrer.
+
+Tenho interesse em áreas como Machine Learning, análise de dados, geolocalização e dispositivos inteligentes, buscando aplicar meus conhecimentos para resolver problemas reais e criar novas soluções.</h5><br>
+
 <h2 align="left">Some Facts About Me</h2>
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 📫 How to reach me *[nicolymoraesfonseca@gmail.com](nicolymoraesfonseca@gmail.com)*
 
 <h2 align="left">Skillset</h2>
 
 <h3 align="left">Programming Languages:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/csharp.svg" width='40' height='40' title='csharp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/php.svg" width='40' height='40' title='php'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coly-Ni&show_icons=true&locale=en&layout=compact" />
 
 <h3 align="left">Frontend Development:</h3>
 
