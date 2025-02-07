@@ -1,8 +1,7 @@
-![Coly-Ni GitHub stats](https://github-readme-stats.vercel.app/api?username=Coly-Ni&theme=jolly&layout=compact&show_icons=true)
+![Coly-Ni GitHub stats](https://github-readme-stats.vercel.app/api?username=Coly-Ni&theme=jolly&layout=compact&show_icons=true&)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coly-Ni&layout=compact&theme=jolly)](https://github.com/Coly-Ni/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coly-Ni&repo=github-readme-stats)](https://github.com/Coly-Ni/githubREADME.md)
 
-<div> 
+<div align="center"> 
   <a href= "https://www.instagram.com/niky.nii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicolymoraesfonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/nicoly-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
