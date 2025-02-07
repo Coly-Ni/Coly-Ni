@@ -1,5 +1,5 @@
 [shadow_red]: https://github-readme-stats.vercel.app/api?username=Coly-Ni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
-[shadow_red][shadow_red]
+![shadow_red][shadow_red]
 
 <h1 align="center">Hello World! 👋 I'm Nicoly Moraes Fonseca</h1>
 
