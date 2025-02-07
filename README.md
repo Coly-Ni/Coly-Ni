@@ -58,7 +58,10 @@ Tenho interesse em áreas como Machine Learning, análise de dados, geolocaliza�
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width='40' height='40' title='arduino'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
 <br><hr><br>
+<div> 
+  <a href= "https://www.instagram.com/niky.nii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolymoraesfonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/nicoly-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<h2 align="left">Connect with Me</h2>
 
-<p align='left'><a href="https://www.linkedin.com/in/nicoly-moraes/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
