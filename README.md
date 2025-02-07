@@ -1,5 +1,6 @@
-![jolly](https://github-readme-stats.vercel.app/api?username=Coly-Ni&theme=dark&show_icons=true)
-
+![Coly-Ni GitHub stats](https://github-readme-stats.vercel.app/api?username=Coly-Ni&theme=jolly&layout=compact&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coly-Ni&layout=compact&theme=jolly)](https://github.com/Coly-Ni/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coly-Ni&repo=github-readme-stats)](https://github.com/Coly-Ni/githubREADME.md)
 
 <div> 
   <a href= "https://www.instagram.com/niky.nii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
