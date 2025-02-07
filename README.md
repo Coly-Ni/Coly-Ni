@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [shadow_red]: https://github-readme-stats.vercel.app/api?username=Coly-Ni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
-[blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Coly-Ni&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
+[shadow_red]: https://github-readme-stats.vercel.app/api/pin/?username=Coly-Ni&repo=github-readme-stats&cache_seconds=86400&theme=shadow_red
 
 | `📈My Stats`| `📊My Repo Stats`| 
 | :--: | :--: |
