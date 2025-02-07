@@ -1,6 +1,12 @@
 [shadow_red]: https://github-readme-stats.vercel.app/api?username=Coly-Ni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red
 ![shadow_red][shadow_red]
 
+<div> 
+  <a href= "https://www.instagram.com/niky.nii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolymoraesfonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/nicoly-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <h1 align="center">Hello World! 👋 I'm Nicoly Moraes Fonseca</h1>
 
 <h5 align="center">Universitária cursando Bacharelado em Sistemas de Informação na Universidade Estadual de Mato Grosso do Sul (UEMS) e Especialização em Aprendizado de Máquina pela Coursera.
@@ -58,10 +64,6 @@ Tenho interesse em áreas como Machine Learning, análise de dados, geolocaliza�
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width='40' height='40' title='arduino'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
 <br><hr><br>
-<div> 
-  <a href= "https://www.instagram.com/niky.nii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicolymoraesfonseca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/nicoly-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 
