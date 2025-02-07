@@ -5,7 +5,7 @@
 
 | `📈My Stats`| `📊My Repo Stats`| 
 | :--: | :--: |
-|![shadow_red][shadow_red]|![blue-green][blue-green_repo]|
+|![shadow_red][shadow_red]|![shadow_red][shadow_red_repo]|
 
 
 ## ⚒️My favorite tools
