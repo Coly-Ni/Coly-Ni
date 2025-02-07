@@ -3,7 +3,8 @@
   
 |||
 |:--|:-:|
-|<img align="center" href="https://github.com/Coly-Ni/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=Coly-Ni&theme=jolly&&show_icons=true"/>|<img src="https://github.com/user-attachments/assets/4a7fd1b3-7dae-457a-803c-f3be840470c4" width="200"/>| 
+|<img align="center" href="https://github.com/Coly-Ni/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=Coly-Ni&theme=jolly&&show_icons=true"/>|<img src="https://github.com/user-attachments/assets/4a7fd1b3-7dae-457a-803c-f3be840470c4" width="200">| 
+
 </div>
 
 <div align="center"> 
@@ -20,47 +21,79 @@ Em projetos acadêmicos, estou desenvolvendo um ambiente virtual interativo para
 
 Tenho interesse em áreas como Machine Learning, análise de dados, geolocalização e dispositivos inteligentes, buscando aplicar meus conhecimentos para resolver problemas reais e criar novas soluções.</h5><br>
 
-<h2 align="left">Skillset</h2>
+
+
+  
+  <h3 align="left">Skillset:</h3>
+  <p align='left'>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ssh/ssh-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unix/unix-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gcc/gcc-line.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg">
+  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg">
+  <img align="center" height="30" width="30" src="https://store-images.s-microsoft.com/image/apps.64314.14423064005243201.ff003f01-b27e-4e67-9aa6-33c671187261.c7133ceb-d688-4f51-b158-23818ec236ff?h=210">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quasar/quasar-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg">
+</p>
 
 <h3 align="left">Programming Languages:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/csharp.svg" width='40' height='40' title='csharp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/php.svg" width='40' height='40' title='php'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/csharp.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/php.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg">
+</p>
 
 <h3 align="left">Frontend Development:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg">
+</p>
 
 <h3 align="left">Backend Development:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='nginx'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg">
+</p>
 
 <h3 align="left">AI / ML:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg" width='40' height='40' title='tensorflow'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/AIML/tensorflow.svg">
+</p>
 
 <h3 align="left">Database Management:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mariadb.svg" width='40' height='40' title='mariadb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/sqlite.svg" width='40' height='40' title='sqlite'/></p>
-
-<h3 align="left">Devops:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/azure.svg" width='40' height='40' title='azure'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mariadb.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/sqlite.svg">
+</p>
 
 <h3 align="left">Frameworks:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/flask.svg" width='40' height='40' title='flask'/></p>
-
-<h3 align="left">Softwares:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/flask.svg">
+</p>
 
 <h3 align="left">Game Engines:</h3>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/GameEngines/unity.svg" width='40' height='40' title='unity'/></p>
+<p align='left'>
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/GameEngines/unity.svg">
+</p>
 
-<h3 align="left">Others:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width='40' height='40' title='arduino'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
 <br><hr><br>
 
