@@ -7,7 +7,6 @@
 | :--: | :--: |
 |![shadow_red][shadow_red]|![shadow_red][shadow_red]|
 
-<h1 align="center">Hello World! 👋 I'm Nicoly Moraes Fonseca</h1>
 
 <h1 align="center">Hello World! 👋 I'm Nicoly Moraes Fonseca</h1>
 
